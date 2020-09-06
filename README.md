@@ -38,8 +38,11 @@ Run these configurations and files on fedora 29:
   xterm h1, h2, h3, h4
   
   h1> python Client1.py
+  
   h2> python Server1.py
+  
   h3> python Client2.py
+  
   h4> python Server2.py
   
   NOTE: Client1.py and Client2.py have 4 running threads.
