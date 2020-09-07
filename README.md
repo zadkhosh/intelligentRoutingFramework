@@ -45,7 +45,7 @@ Run these configurations and files on fedora 29:
   NOTE: in the downloaded files (InitializeFramework.py, CreateNetworkContainsMiddelBoxes.py, IntelligentRoutingFramework.py, Client1.py, Client2.py) change the mainpath to the path that you extract our project.
   
   
-6-	copy IntelligentRoutingFramework.py to /usr/lib64/python2.7/side-packages/pox
+6-	copy IntelligentRoutingFramework.py to /usr/lib64/python2.7/side-packages/pox/pox/forwarding
 
 7-	Run the intelligent routing framework (in two different terminals)
 
