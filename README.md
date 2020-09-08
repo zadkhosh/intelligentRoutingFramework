@@ -1,6 +1,6 @@
 # intelligentRoutingFramework
 
-Run these configurations and files on fedora 29:
+Run these configurations and files on fedora 29 python2.7:
 
 1-	Install openvswitch, python-devel, cpu-limit
 
@@ -37,6 +37,7 @@ Run these configurations and files on fedora 29:
   
   pip install dijkstar
 
+  pip install pox
 
 5-	copy our intelligent routing framework from github
 
